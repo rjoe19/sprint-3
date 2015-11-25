@@ -5,7 +5,7 @@ Before reading the article, I didn't really know of the importance of making a w
 
 It will make me more conscious about how I go about ensuring that the web design is accessible for all users (or as many as possible).  
 
-I also think that I will have to also take into account practical considerations such as budget, project deadlines and so fourth re implementing POUR and perhaps have to take an 80/20 approach to determine the few key areas to focus that have the biggest impact.
+I also think that I will have to also take into account practical considerations such as budget, project deadlines and so fourth re implementing the 'perceivable' aspect of POUR, and perhaps have to take an 80/20 approach to determine the few key areas to focus that have the biggest impact.
 
 
 
