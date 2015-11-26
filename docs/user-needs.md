@@ -1,0 +1,1 @@
+ list potential site audiences (e.g., customers) in order of decreasing importance. Under each audience list the needs of that audience, again in order of decreasing importance, along with the reasons for each and how your site will meet them

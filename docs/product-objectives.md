@@ -24,10 +24,10 @@ Instead of the traditional model of physically having to walk to a coffee shop, 
     - Metrics: User adoption rates, rate of returning customers, average real speed of delivery per order vs estimated time.
 
 
-2) SOCIAL:
-CoffeePLus endeavours to be a social enterprise model, only sourcing the highest quality beans from fairtrade, organic farmers and paying a fair price.
+2)GROWTH: Achieve sustainable and even levels of growth of users to the website, with returning customers being of prime importance (it's known that it's easier to attract returning customers, then try to get new ones).
+Once the MVP has taken off to sustainable revenue/profitability and cashflow levels, we will look into planning to expand to a greater radius (currently 15km of our base) - perhaps 20-30km?  This will enable us to increase our customer base, bring in more revenue and introduce more customers to our value proposition of fast, convenient coffee.
 
-    - Metrics: Volume of fairtrade beans bought, number of fairtrade coffee suppliers partnered with.
+    -metrics: User adoption rates, rate of returning customers, traffic to the website, average order size, average revenue per order, bounce rate on website, number of reviews of coffee products.
 
 3) COFFEE AWARENESS:
 We aim to make the drinking of espresso coffee a mainstay of people who aren't coffee lovers by making it easier and more accessible to the average customer.  By removing the barriers of time, inconvenience, our target customers are able to start drinking espresso with ease.
@@ -35,14 +35,10 @@ We aim to make the drinking of espresso coffee a mainstay of people who aren't c
     -Metrics:User adoption rates, rate of returning customers, transparent review system of each coffee type on website.
 
 
+4) SOCIAL:
+CoffeePLus endeavours to be a social enterprise model, only sourcing the highest quality beans from fairtrade, organic farmers and paying a fair price.
 
-4)GROWTH: Achieve sustainable and even levels of growth of users to the website, with returning customers being of prime importance (it's known that it's easier to attract returning customers, then try to get new ones).
-Once the MVP has taken off to sustainable revenue/profitability and cashflow levels, we will look into planning to expand to a greater radius (currently 15km of our base) - perhaps 20-30km?  This will enable us to increase our customer base, bring in more revenue and introduce more customers to our value proposition of fast, convenient coffee.
-
-    -metrics: User adoption rates, rate of returning customers, traffic to the website, average order size, average revenue per order, bounce rate on website, number of reviews of coffee products.
-
-
-
+    - Metrics: Volume of fairtrade beans bought, number of fairtrade coffee suppliers partnered with.
 
 
 SUCCESS METRICS
