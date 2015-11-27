@@ -11,6 +11,8 @@
 
           B) A great tasting coffee: Obvious reason as no one wants to buy something that doesn't meet their taste preferences.  Our site will meet this by both having time tested baristas who have a proven track record of making great coffee, and also as mentioned, sourcing from high quality organic free trade suppliers.
 
+          C)Social Impact: We're in a world of increasing awareness of the impact of our actions on the welfare of others.  Does the business transparently display information regarding the impact they make to fair trade goals and the impact on coffee farmers in developing countries, whom are regularly exploited for little profit?
+
 
 
 
@@ -36,3 +38,25 @@
           - A) Market Share: If established competitors find that CoffeePlus is taking off and taking revenue/market share away from them then they may consider cloning this business model to compete with directly or add it as an additional service offering in order to protect themselves.
           - B) Ideas: Competitors may be interested in what aspects of CoffeePlus are revolutionary and implement that in their business model.  E.G. having an app to communicate with customers, using fairtrade coffee and sourcing from similar suppliers, good UX design of website to project a good image to customers etc.
 
+
+
+
+
+
+
+Include any site information, branding materials, etc. that you'll need. You can use the materials provided in the docs folder for this week, or you can craft your own. It's up to you. We'll use these materials to build a prototype website.
+
+
+URL: www.coffeeplus.co.nz
+Address: 275 Cuba St, Wellington, New Zealand.
+Contact Info: 0800 COFFEEPLUS
+              info@coffeeplus.co.nz
+
+
+About us:
+Have you ever been so busy that work that you and your team wanted to get that coffee buzz to keep on grinding, yet didn't have the time to bother going out, ordering that coffee and waiting for it? What a waste of time!  Well, we solve this hassle by letting you logon to CoffeePlus and ordering online securely with delivery within 15km radius of our site.  
+
+
+Established in 2015, we're a small but nimble operation.  Our clients range from large corporate offices, to governmental departments and include mum and pop shops.  With a team of world class baristas, beans sourced from the best fair trade farmers and delivery people, we're commited to delivering your coffee at record speeds, and letting you get on with focusing on the things that matter in your business.
+
+The old, tired brick and mortar coffee business is so out of date.  We're here to shake things up and hope you join the ride.  You'll never go back.
